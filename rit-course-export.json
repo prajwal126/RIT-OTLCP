@@ -1,0 +1,127 @@
+{
+  "LectureVideos" : {
+    "Android App Development" : {
+      "Week 1" : {
+        "Activity States" : "NMDPxN8FgXM",
+        "Introduction" : "QAbQgLGKd3Y",
+        "Running Simple App" : "qKRWC3Q8wRw"
+      },
+      "Week 2" : {
+        "Fragments" : "dQ6uc__qP-g",
+        "Intents" : "06bcsMx-7QQ",
+        "UI" : "cOYzJN6A-JM"
+      },
+      "Week 3" : {
+        "Connecting Database" : "YVu_xSzn2u0",
+        "Firebase Intro" : "i-gZAYBMuBs",
+        "Saving Data" : "tOn5HsQPhUY"
+      }
+    }
+  },
+  "Questions" : {
+    "Android App Development" : {
+      "Week1" : {
+        "During an Activity life-cycle, what is the first callback method  invoked by the system?" : "onCreate()",
+        "What Activity method you use to retrieve a reference to an  Android view by using the id attribute of a resource XML?" : "findViewById(int id)",
+        "Which configuration file holds the permission to use the  internet?" : "Manifest file",
+        "Which of the following is NOT a valid usage for Intents?" : "Activate a SQLite DB Connection.",
+        "Which of the following is not an Android component" : "Layout"
+      },
+      "Week2" : {
+        "What is fragment in android?" : "Piece of Activity",
+        "Which is the correct explanation of ListView?" : "ListView has a function to display a list of uniquely defined Views other than TextView.",
+        "Which of following is incorrect about the Toast class?" : "A Toast can only create by an Activity class",
+        "Which of the following AsyncTask methods is NOT executed on the  UI thread?" : "publishProgress()",
+        "Which of the following lines of code starts activity Activity2 from a  current activity Activity 1?" : "Intent intent = new Intent(this,Activity2.class);"
+      }
+    },
+    "Python" : {
+      "Week1" : {
+        "What is the output of print tinytuple * 2 if tinytuple = (123, 'john')?" : {
+          "Answer" : "(123, 'john', 123, 'john')"
+        },
+        "Which of the following function convert a String to a tuple in python?" : {
+          "Answer" : "tuple(s)"
+        },
+        "Which of the following function gets the length of the string?" : {
+          "Answer" : "len(string)"
+        },
+        "Which of the following function returns the max alphabetical character from the string str?" : {
+          "Answer" : "max(str)"
+        },
+        "Which of the following is correct about Python?" : {
+          "Answer" : "All of the above."
+        }
+      },
+      "Week2" : {
+        "Program code making use of a given module is called a ______ of the module" : "Client",
+        "To read two characters from a file object infile, we use" : "infile.read(2)",
+        "Which of the following is false about “import modulename” form of import?" : "The namespace of imported module becomes part of importing module",
+        "Which of the following statements create a dictionary?" : "All of the mentioned",
+        "d1 = {\"john\":40, \"peter\":45} d2 = {\"john\":466, \"peter\":45} d1 > d2" : "Error"
+      },
+      "Week3" : {
+        " How many except statements can a try-except block have?" : "more than zero",
+        "What is the output of the following piece of code?  >>> a={'B':5,'A':9,'C':7} >>> sorted(a)" : "[‘A’,’B’,’C’].",
+        "What is the output of the following snippet of code?  >>> a={i: i*i for i in range(6)} >>> a" : "{0: 0, 1: 1, 2: 4, 3: 9, 4: 16, 5: 25}",
+        "What is the result of the snippet of code shown below if x=1?  x<<2" : 4,
+        "What is the value of x if:  x>>2=2" : 8
+      }
+    }
+  },
+  "Users" : {
+    "FjlEDcVz4ocyGHyhoXjZWmQS1Zw2" : {
+      "Courses" : [ null, "Introduction To Java", "Introduction To Microeconomics", "Analog IC Design", "Aircraft Maintenance", "Introduction To Python" ],
+      "Scores" : {
+        "Introduction To Python" : {
+          "Week1" : {
+            "Score" : 3
+          },
+          "Week2" : {
+            "Score" : 3
+          },
+          "Week3" : {
+            "Score" : 3
+          }
+        }
+      },
+      "device_token" : "ekrxwD26x7c:APA91bEFDbJ9ctxVmtlZoaTR2t-ju6DKPWSGYfI1NLhQKCoC7MlRBJ6z08JcCBWB707ZWI7dVxvbiKTTphPRPmOlmvK5XXTMgMvehw7PIi9CVEzLkp1BuXYH1Jrmndj9lIvFeDj30YPB",
+      "time" : 1526289733813
+    },
+    "G7FZ5OAxUCU7IlCBDpmIOemHyrP2" : {
+      "device_token" : "fZXTCmLbaHA:APA91bE1Q2IXb4I1tM7Wdo7mS7q_DyJ1Cy9mCA_34pitkg7B1jpX7QJZo5eQ2CdGfbN0C5zdf8qXWtzRogBTrHw9tshJoRXFAjoRQBHTbWUNXVu_taS1lP_q2i7yweYHMFOGW7kUNLlh",
+      "time" : 1522752783051
+    },
+    "PQCB0Sl4gPUb0wVdidRzjxNilb62" : {
+      "Courses" : [ null, "Introduction To Java", "Analog IC Circuit", "Analog IC Design", "Introduction To Python", "Introduction To C", "Android App Development" ],
+      "Scores" : {
+        "Android App Development" : {
+          "Week1" : {
+            "Score" : 4
+          },
+          "Week2" : {
+            "Score" : 4
+          }
+        },
+        "Introduction To Python" : {
+          "Week1" : {
+            "Score" : 5
+          },
+          "Week2" : {
+            "Score" : 3
+          },
+          "Week3" : {
+            "Score" : 5
+          }
+        }
+      },
+      "device_token" : "ekrxwD26x7c:APA91bEFDbJ9ctxVmtlZoaTR2t-ju6DKPWSGYfI1NLhQKCoC7MlRBJ6z08JcCBWB707ZWI7dVxvbiKTTphPRPmOlmvK5XXTMgMvehw7PIi9CVEzLkp1BuXYH1Jrmndj9lIvFeDj30YPB",
+      "time" : 1526289845429
+    },
+    "h6yOf5Jbj3ZQRde3hdoK8yIGNTk1" : {
+      "Courses" : [ null, "Introduction To Python", "Introduction To Python", "Introduction To Python", "Android App Development" ],
+      "device_token" : "ecGz-9Adz9c:APA91bEL7HV2Vj-WpDCLiEAYV-8ayDhN8o7q7dx0g16qH5b-aabSvqimbL5HWSrq7jiLhNkAj-H_R7f6DbE73m88sdzci5lOoEn3H8fCd7BPl3NjuqehCSI2WZFR6Ip6jHpmTco5JOWs",
+      "time" : 1525863171807
+    }
+  }
+}

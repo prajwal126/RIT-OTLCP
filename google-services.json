@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "287121082951",
+    "firebase_url": "https://rit-course.firebaseio.com",
+    "project_id": "rit-course",
+    "storage_bucket": "rit-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287121082951:android:bbc8ae60caddbdc6",
+        "android_client_info": {
+          "package_name": "com.example.prajw.ritcourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287121082951-oa6nk94q2pu9kmg4vagmruc7mu64tavj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prajw.ritcourse",
+            "certificate_hash": "5607f9e31d4458bb9362cb76a09f89a65c63b9fe"
+          }
+        },
+        {
+          "client_id": "287121082951-50a88o6nfrd9p7q0rdh8ek17s4bd289g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywl70ZGAG3YxACfJoV53lADVSNau7AZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287121082951-50a88o6nfrd9p7q0rdh8ek17s4bd289g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

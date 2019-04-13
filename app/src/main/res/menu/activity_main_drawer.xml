@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cs"
+            android:icon="@drawable/ic_laptop_mac_black_24px"
+            android:title="Computer Science"
+            android:visible="true" />
+        <item
+            android:id="@+id/nav_me"
+            android:icon="@drawable/ic_baseline_school_24px"
+            android:title="Journalism" />
+        <item
+            android:id="@+id/nav_phy"
+            android:icon="@drawable/ic_lightbulb_outline_black_24px"
+            android:title="Physics"/>
+        <item
+            android:id="@+id/nav_es"
+            android:icon="@drawable/ic_attach_money_black_24px"
+            android:title="Economic Science" />
+        <item
+            android:id="@+id/nav_5"
+            android:icon="@drawable/ic_settings_input_component_black_24px"
+            android:title="Electrical Engineering" />
+        <item
+            android:id="@+id/nav_6"
+            android:icon="@drawable/ic_airplanemode_active_black_24px"
+            android:title="Aerospace Engineering" />
+    </group>
+</menu>
+

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+        "outputFile": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 125
                 },
                 "from": {
-                    "file": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\values-v22\\values-v22.xml",
+                    "file": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 212
                 },
                 "from": {
-                    "file": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\values-v22\\values-v22.xml",
+                    "file": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -50,7 +50,7 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\values-v22\\values-v22.xml",
+                    "file": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,7 +71,7 @@
                     "endOffset": 896
                 },
                 "from": {
-                    "file": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\values-v22\\values-v22.xml",
+                    "file": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

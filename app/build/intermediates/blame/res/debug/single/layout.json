@@ -1,294 +1,562 @@
 [
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_account_saved_card_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\user_account_saved_card_layout.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_withdraw_confirm_details.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\dialog_withdraw_confirm_details.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_schedule_message.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_schedule_message.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nb_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\nb_layout.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\loading.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_layout.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\app_bar_layout.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1e6f6c13813024b2c7f97c677fe4676b656c59ac\\output\\res\\layout\\progress_bar.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cvv_dialog_content.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\cvv_dialog_content.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_cs.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\frag_cs.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_status.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_status.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_single_layout.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\message_single_layout.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_alert_autoload_eligible_cards.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\dialog_alert_autoload_eligible_cards.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tick_store.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\tick_store.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_progressbar.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\app_progressbar.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_text_input_password_icon.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_activity_login.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\63ad2e15ef4df1cca47ea308856c2ae5fd241f60\\output\\res\\layout\\sdk_activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lecture_material.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_lecture_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_validate_wallet.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_validate_wallet.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_navigation_item.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wait_for_otp.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\wait_for_otp.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_activity_web_view_dummy.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\63ad2e15ef4df1cca47ea308856c2ae5fd241f60\\output\\res\\layout\\sdk_activity_web_view_dummy.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ui_header.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\dialog_ui_header.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_start.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_aero.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\frag_aero.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_bottom_navigation_item.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_courseinf.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_courseinf.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\saved_card_item_manage_cards.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\saved_card_item_manage_cards.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_row.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\single_row.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_phy.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\frag_phy.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_settings.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_list.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_auto_load_update.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_auto_load_update.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image_activity.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\e90b153f086fa3adafcffc7e389b9b5365fbfcc8\\output\\res\\layout\\crop_image_activity.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_certificate.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_certificate.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_decrypt.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_decrypt.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image_view.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\e90b153f086fa3adafcffc7e389b9b5365fbfcc8\\output\\res\\layout\\crop_image_view.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_money_new.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_add_money_new.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_custom_bar.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\chat_custom_bar.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_chat.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_us.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_me.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\frag_me.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallet_view_login_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\wallet_view_login_layout.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chats.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\static_bank_item.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\static_bank_item.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\users_single_layout.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\users_single_layout.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_withdraw_success.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\dialog_withdraw_success.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_auto_load_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\user_auto_load_layout.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_profile.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cb_payments.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\cb_payments.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_terms_condition.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\layout_terms_condition.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_new_card_item.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\add_new_card_item.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friends.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\fragment_friends.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cb_layout_snooze_slow_user.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\cb_layout_snooze_slow_user.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_requests.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\fragment_requests.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pay_umoney.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_pay_umoney.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_money_options.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_add_money_options.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quiz.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_quiz.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_right_layout.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\message_right_layout.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallet_view_user_wallet_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\wallet_view_user_wallet_layout.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_card_fragment_new.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_add_card_fragment_new.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_questions.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_questions.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_profile.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerviewyt.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\recyclerviewyt.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coursereg.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_coursereg.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_navigation_menu.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_users.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\layout\\activity_users.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_main2.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sticky_row_details.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\sticky_row_details.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_quick_pay.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_quick_pay.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\magicretry_main.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\6013302288eb85bd748afb6c2d38fbe0dbfc5a00\\output\\res\\layout\\magicretry_main.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cb_progressdialog.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\cb_progressdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_amount.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_amount.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_pin.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\register_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cb_layout_snooze.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\cb_layout_snooze.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login2.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amount_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\amount_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cb_prog_dialog.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\cb_prog_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_account_saved_withdraw_bank_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\user_account_saved_withdraw_bank_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_dual_button_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\dialog_dual_button_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_action.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\choose_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_eco.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\frag_eco.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_computer_science.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_computer_science.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_items.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\recyclerview_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_signle_button_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\dialog_signle_button_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recycler.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login3.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_login3.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_balance_add_money_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\user_balance_add_money_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cvv_boxes_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\cvv_boxes_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk_progressdialog_sendingotp.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\63ad2e15ef4df1cca47ea308856c2ae5fd241f60\\output\\res\\layout\\sdk_progressdialog_sendingotp.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\retry_otp.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\retry_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_saved_card_delete.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\dialog_saved_card_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_withdraw_money.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_withdraw_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_elec.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\frag_elec.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bank_list.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_bank_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallet_view_saved_card_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\wallet_view_saved_card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_autoload_cardlist.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_autoload_cardlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sticky_index.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\sticky_index.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_bank_item.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\layout_bank_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wallet.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_enter_otp.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\dialog_enter_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_get_cvv_fragment_new.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_get_cvv_fragment_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exam.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_exam.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_result_new.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\fragment_result_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallet_view_net_banking_layout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout\\wallet_view_net_banking_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payu.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\layout\\activity_payu.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bank.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\bank.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bankold.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\layout\\bankold.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     }
 ]

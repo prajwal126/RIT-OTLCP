@@ -1,18 +1,30 @@
 [
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_citrus_ui.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout-v21\\activity_citrus_ui.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\saved_card_item.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout-v21\\saved_card_item.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\bank_row_details.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\layout-v21\\bank_row_details.xml"
     }
 ]

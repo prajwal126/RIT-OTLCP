@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     }
 ]

@@ -1,242 +1,502 @@
 [
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_avatar.png",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\drawable\\default_avatar.png"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_bg_white.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\edit_bg_white.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rit.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\rit.jpg"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\d4fb72d44dad84c51bad154fd653e41d550650f0\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_share.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pwawa.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\pwawa.jpg"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rounded_search_view.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\bg_rounded_search_view.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_auto_load_logo.png",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\img_auto_load_logo.png"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradientjpg.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\gradientjpg.jpg"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipadjava2.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ipadjava2.jpg"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdk_outer_circle.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\63ad2e15ef4df1cca47ea308856c2ae5fd241f60\\output\\res\\drawable\\sdk_outer_circle.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\decrypted.png",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\drawable\\decrypted.png"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\d4fb72d44dad84c51bad154fd653e41d550650f0\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border2.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\border2.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\andlogo.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\andlogo.jpg"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\d4fb72d44dad84c51bad154fd653e41d550650f0\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\app_logo.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_build_black_24px.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_build_black_24px.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enb.png",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\enb.png"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_repeat_black_36dp.png",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\6013302288eb85bd748afb6c2d38fbe0dbfc5a00\\output\\res\\drawable\\ic_repeat_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\approve_otp_button.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\drawable\\approve_otp_button.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_text_background.xml",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\drawable\\message_text_background.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_drawable.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\drawable\\background_drawable.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\d4fb72d44dad84c51bad154fd653e41d550650f0\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sportsjournalism.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\sportsjournalism.jpg"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cont2.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\cont2.jpg"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\d4fb72d44dad84c51bad154fd653e41d550650f0\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rounded_solid_gray.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\bg_rounded_solid_gray.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gt.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\gt.jpg"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\graptheory.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\graptheory.jpg"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rounded_white.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\bg_rounded_white.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cryptic5.png",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\drawable\\cryptic5.png"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_edit_text.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\drawable\\cb_edit_text.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crop_image_menu_crop_stub.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\e90b153f086fa3adafcffc7e389b9b5365fbfcc8\\output\\res\\drawable\\crop_image_menu_crop_stub.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\download.jpg"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scehdule.png",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\drawable\\scehdule.png"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\youtube256.png",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\youtube256.png"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button1.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\63ad2e15ef4df1cca47ea308856c2ae5fd241f60\\output\\res\\drawable\\button1.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ourvalues.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ourvalues.jpg"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\online_icon.png",
-        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\drawable\\online_icon.png"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradientbackground.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\gradientbackground.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lightbulb_outline_black_24px.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_lightbulb_outline_black_24px.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_animation.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\drawable\\notification_animation.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_laptop_mac_black_24px.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_laptop_mac_black_24px.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_camera.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1dd455249c94447520faeb26601d36b00bd36ed4\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_down_white.png",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\ic_arrow_down_white.png"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profbkg.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\profbkg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rounded_grey_border.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\bg_rounded_grey_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\about.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brain.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\brain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cprog.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\cprog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aircraft.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\aircraft.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trusticon.png",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\6013302288eb85bd748afb6c2d38fbe0dbfc5a00\\output\\res\\drawable\\trusticon.png"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icdesign.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\icdesign.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_progress.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\drawable\\shape_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_progress_bar.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\drawable\\cb_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inflation.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\inflation.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_border.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\rectangle_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\d4fb72d44dad84c51bad154fd653e41d550650f0\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ritlogo.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ritlogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\d4fb72d44dad84c51bad154fd653e41d550650f0\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cucorral.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\cucorral.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\otp_button_selector.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\drawable\\otp_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attach_money_black_24px.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_attach_money_black_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_settings_input_component_black_24px.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_settings_input_component_black_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rounded_button.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\bg_rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_money_button_normal_left.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\add_money_button_normal_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\journalism2.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\journalism2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blueee.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\blueee.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoo.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\logoo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pin_button_selector.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\drawable\\pin_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_money_button_normal_right.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\add_money_button_normal_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_bg.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\edit_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\d4fb72d44dad84c51bad154fd653e41d550650f0\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\analogic.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\analogic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_baseline_school_24px.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_baseline_school_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_otp.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\63ad2e15ef4df1cca47ea308856c2ae5fd241f60\\output\\res\\drawable\\send_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rounded_disable.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\bg_rounded_disable.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cont1.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\cont1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_airplanemode_active_black_24px.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\ic_airplanemode_active_black_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smokysky.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\smokysky.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lock.png",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_up_white.png",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\ic_arrow_up_white.png"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pythonlogo.jpg",
+        "source": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\src\\main\\res\\drawable\\pythonlogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_money_button_normal.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\add_money_button_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_divider.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\drawable\\line_divider.xml"
     }
 ]

@@ -1,58 +1,86 @@
 [
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\anim\\fadein.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_from_bottom.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\anim\\slide_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cb_translate.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\anim\\cb_translate.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\anim\\fadeout.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_to_bottom.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\711baea422e03d5498eb4f4599d2d4df802f1b29\\output\\res\\anim\\slide_to_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cb_tranlateup.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\anim\\cb_tranlateup.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cb_fade_in.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\anim\\cb_fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\prajw\\.android\\build-cache\\1759a7a93f39d00087cc6d77609cb56a483c9420\\output\\res\\anim\\design_fab_out.xml"
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\1d0347aafab856a34883345111da4300f3f11b2d\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cb_face_out.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\anim\\cb_face_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cb_animation.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\c295c8d7dec9601fa6cf2560341eb90d1429300c\\output\\res\\anim\\cb_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\RITcourse\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\11a451f93019711f1e8f673c7d66b1be8ac0945b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     }
 ]

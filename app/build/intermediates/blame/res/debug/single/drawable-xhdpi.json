@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_send_black_24dp.png",
+        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\drawable-xhdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_add_black_24dp.png",
+        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\default_avatar.png",
+        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\drawable-xhdpi\\default_avatar.png"
+    }
+]

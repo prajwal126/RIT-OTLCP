@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\8ceaa0e25b4a0d1dd74898cb85686033944c46db\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

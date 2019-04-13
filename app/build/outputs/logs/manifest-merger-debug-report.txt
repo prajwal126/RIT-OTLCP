@@ -1,0 +1,364 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:8:5-63:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\prajw\.android\build-cache\1759a7a93f39d00087cc6d77609cb56a483c9420\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\prajw\.android\build-cache\88c5793adb0900de14e171a859460233cc630254\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\prajw\.android\build-cache\1bbbdef93c9bafa7face40631a500ba1e89709d4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.2.0] C:\Users\prajw\.android\build-cache\ece3f15366e1429c31445ffa5098f488634d20f9\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\prajw\.android\build-cache\1dd455249c94447520faeb26601d36b00bd36ed4\output\AndroidManifest.xml:18:5-20:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\prajw\.android\build-cache\610706f46e84722dac14047c8fdea576a756be30\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\prajw\.android\build-cache\1b5e8671bd2e5c3a58157618207ca1e93b56fa32\output\AndroidManifest.xml:26:5-20
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\prajw\.android\build-cache\1b9f2624b402794f230810429ab6166987610526\output\AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\prajw\.android\build-cache\8ceaa0e25b4a0d1dd74898cb85686033944c46db\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\prajw\.android\build-cache\f50fd6c29fb72ae505a04e6843b5490bbf00c8d7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\prajw\.android\build-cache\ebe13f22a84c6642f35f6f3ebc78ed7e72419d9d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.scottyab:aescrypt:0.0.1] C:\Users\prajw\.android\build-cache\bf6f57146a2a83fc9e90a27018a684431fdc2b1b\output\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\prajw\.android\build-cache\67c4df19e496b4ebbce6e3dfb8411e4d3ae472c9\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:10.2.0] C:\Users\prajw\.android\build-cache\7f37ac2996bd4afc0e0aa15e8de812edec8c0eee\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\prajw\.android\build-cache\eed6cb84b2ee0d8519981a1023aaba04e4772bf7\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\prajw\.android\build-cache\da72bcccc54641a490bbc6b9516dfc6fd5c60996\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\prajw\.android\build-cache\c84ff1a261aec294b55b4fc5041805ff1b2ac546\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\prajw\.android\build-cache\9da565085465e6aa0d09656cc5afa85c276c38c7\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\prajw\.android\build-cache\cb47db47414f06ff95f0d3eb20f3489714ef2e44\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\prajw\.android\build-cache\dc57bf8181a5be30fe792c9c7ca770a823e3e63d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\prajw\.android\build-cache\6d71ae7c3558408e3294c7b22f5e21b62260d0ea\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\prajw\.android\build-cache\3a33e19051c9cc552ede70b3d0a994ae1034a4d1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\prajw\.android\build-cache\750547fc1df4ca3eb5642dc2ff86d2ee32629ed4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\prajw\.android\build-cache\f5ba909f4ad449c96e3afeb70ebd6a3a57267d7e\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:9:9-37
+service#cryptick.firebaseandroid.FirebaseMessagingService
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:16:9-20:19
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:16:18-58
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:17:13-19:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:18:17-78
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:18:25-75
+activity#cryptick.firebaseandroid.SplashScreen
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:21:9-28:20
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:26:27-74
+activity#cryptick.firebaseandroid.MainActivity
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:29:9-31:20
+	android:parentActivityName
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:29:19-47
+activity#cryptick.firebaseandroid.StartActivity
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:32:9-51
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:32:19-48
+activity#cryptick.firebaseandroid.RegisterActivity
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:33:9-35:59
+	android:parentActivityName
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:34:13-45
+activity#cryptick.firebaseandroid.LoginActivity
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:36:9-38:59
+	android:parentActivityName
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:37:13-42
+activity#cryptick.firebaseandroid.SettingsActivity
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:39:9-54
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:39:19-51
+activity#cryptick.firebaseandroid.StatusActivity
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:40:9-42:62
+	android:parentActivityName
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:41:13-43
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:43:9-45:59
+	android:theme
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:44:13-76
+activity#cryptick.firebaseandroid.UsersActivity
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:46:9-48:58
+	android:parentActivityName
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:48:13-55
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:47:13-42
+activity#cryptick.firebaseandroid.ProfileActivity
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:49:9-55:20
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:49:19-50
+intent-filter#android.intent.category.DEFAULT+in.tvac.akshaye.lapitchat_TARGET_NOTIFICATION
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:50:13-54:29
+action#in.tvac.akshaye.lapitchat_TARGET_NOTIFICATION
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:51:17-88
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:51:25-85
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:53:27-73
+activity#cryptick.firebaseandroid.ChatActivity
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:56:9-58:58
+	android:parentActivityName
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:58:13-55
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:57:13-41
+activity#cryptick.firebaseandroid.DecryptActivity
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:59:9-53
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:59:19-50
+activity#cryptick.firebaseandroid.scheduleMessage
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:60:9-53
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:60:19-50
+activity#cryptick.firebaseandroid.TickStore
+ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:61:9-47
+	android:name
+		ADDED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml:61:19-44
+uses-sdk
+INJECTED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\prajw\.android\build-cache\1759a7a93f39d00087cc6d77609cb56a483c9420\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\prajw\.android\build-cache\88c5793adb0900de14e171a859460233cc630254\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\prajw\.android\build-cache\1bbbdef93c9bafa7face40631a500ba1e89709d4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:10.2.0] C:\Users\prajw\.android\build-cache\ece3f15366e1429c31445ffa5098f488634d20f9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\prajw\.android\build-cache\1dd455249c94447520faeb26601d36b00bd36ed4\output\AndroidManifest.xml:17:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\prajw\.android\build-cache\610706f46e84722dac14047c8fdea576a756be30\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] C:\Users\prajw\.android\build-cache\e90b153f086fa3adafcffc7e389b9b5365fbfcc8\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\prajw\.android\build-cache\1b5e8671bd2e5c3a58157618207ca1e93b56fa32\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.0] C:\Users\prajw\.android\build-cache\7c418fa22f0974908c6141356f2157adea0918b4\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] C:\Users\prajw\.android\build-cache\e596269706d1f5da3c3aaf44815f64c224a3f0de\output\AndroidManifest.xml:3:5-43
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\prajw\.android\build-cache\1b9f2624b402794f230810429ab6166987610526\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\prajw\.android\build-cache\8ceaa0e25b4a0d1dd74898cb85686033944c46db\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\prajw\.android\build-cache\f50fd6c29fb72ae505a04e6843b5490bbf00c8d7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\prajw\.android\build-cache\ebe13f22a84c6642f35f6f3ebc78ed7e72419d9d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\prajw\.android\build-cache\38dc5f73ef4f1717c584f7973e00d5cca5f877d4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] C:\Users\prajw\.android\build-cache\9bf41bc1a1aba2c2d1bc13987427caebec41c96c\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] C:\Users\prajw\.android\build-cache\df929c15d9b6568ad1c48f20c86ba2fdb4b80246\output\AndroidManifest.xml:3:5-43
+MERGED from [id.zelory:compressor:2.0.0] C:\Users\prajw\.android\build-cache\370bfea5c678dd4b3249f7bfaba52ed05e098e59\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.scottyab:aescrypt:0.0.1] C:\Users\prajw\.android\build-cache\bf6f57146a2a83fc9e90a27018a684431fdc2b1b\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\prajw\.android\build-cache\67c4df19e496b4ebbce6e3dfb8411e4d3ae472c9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.0] C:\Users\prajw\.android\build-cache\7f37ac2996bd4afc0e0aa15e8de812edec8c0eee\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\prajw\.android\build-cache\eed6cb84b2ee0d8519981a1023aaba04e4772bf7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\prajw\.android\build-cache\da72bcccc54641a490bbc6b9516dfc6fd5c60996\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\prajw\.android\build-cache\c84ff1a261aec294b55b4fc5041805ff1b2ac546\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\prajw\.android\build-cache\9da565085465e6aa0d09656cc5afa85c276c38c7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\prajw\.android\build-cache\cb47db47414f06ff95f0d3eb20f3489714ef2e44\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\prajw\.android\build-cache\dc57bf8181a5be30fe792c9c7ca770a823e3e63d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\prajw\.android\build-cache\6d71ae7c3558408e3294c7b22f5e21b62260d0ea\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\prajw\.android\build-cache\3a33e19051c9cc552ede70b3d0a994ae1034a4d1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\prajw\.android\build-cache\750547fc1df4ca3eb5642dc2ff86d2ee32629ed4\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\prajw\.android\build-cache\f5ba909f4ad449c96e3afeb70ebd6a3a57267d7e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\prajw\.android\build-cache\1759a7a93f39d00087cc6d77609cb56a483c9420\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prajw\Desktop\Cryptick\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\prajw\.android\build-cache\1759a7a93f39d00087cc6d77609cb56a483c9420\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\prajw\.android\build-cache\88c5793adb0900de14e171a859460233cc630254\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\prajw\.android\build-cache\1b5e8671bd2e5c3a58157618207ca1e93b56fa32\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\prajw\.android\build-cache\8ceaa0e25b4a0d1dd74898cb85686033944c46db\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\prajw\.android\build-cache\f50fd6c29fb72ae505a04e6843b5490bbf00c8d7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\prajw\.android\build-cache\ebe13f22a84c6642f35f6f3ebc78ed7e72419d9d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\prajw\.android\build-cache\38dc5f73ef4f1717c584f7973e00d5cca5f877d4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\prajw\.android\build-cache\cb47db47414f06ff95f0d3eb20f3489714ef2e44\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\prajw\.android\build-cache\dc57bf8181a5be30fe792c9c7ca770a823e3e63d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\prajw\.android\build-cache\6d71ae7c3558408e3294c7b22f5e21b62260d0ea\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\prajw\.android\build-cache\3a33e19051c9cc552ede70b3d0a994ae1034a4d1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\prajw\.android\build-cache\750547fc1df4ca3eb5642dc2ff86d2ee32629ed4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\prajw\.android\build-cache\f5ba909f4ad449c96e3afeb70ebd6a3a57267d7e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\prajw\.android\build-cache\1759a7a93f39d00087cc6d77609cb56a483c9420\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\prajw\.android\build-cache\1759a7a93f39d00087cc6d77609cb56a483c9420\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\prajw\.android\build-cache\1dd455249c94447520faeb26601d36b00bd36ed4\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\prajw\.android\build-cache\1dd455249c94447520faeb26601d36b00bd36ed4\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\prajw\.android\build-cache\1dd455249c94447520faeb26601d36b00bd36ed4\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\prajw\.android\build-cache\1dd455249c94447520faeb26601d36b00bd36ed4\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\prajw\.android\build-cache\1b9f2624b402794f230810429ab6166987610526\output\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\prajw\.android\build-cache\eed6cb84b2ee0d8519981a1023aaba04e4772bf7\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\prajw\.android\build-cache\1b9f2624b402794f230810429ab6166987610526\output\AndroidManifest.xml:11:22-64
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\prajw\.android\build-cache\1b9f2624b402794f230810429ab6166987610526\output\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\prajw\.android\build-cache\9da565085465e6aa0d09656cc5afa85c276c38c7\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\prajw\.android\build-cache\1b9f2624b402794f230810429ab6166987610526\output\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\prajw\.android\build-cache\1b9f2624b402794f230810429ab6166987610526\output\AndroidManifest.xml:15:13-58
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\prajw\.android\build-cache\67c4df19e496b4ebbce6e3dfb8411e4d3ae472c9\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\prajw\.android\build-cache\67c4df19e496b4ebbce6e3dfb8411e4d3ae472c9\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\prajw\.android\build-cache\67c4df19e496b4ebbce6e3dfb8411e4d3ae472c9\output\AndroidManifest.xml:23:18-87
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\prajw\.android\build-cache\eed6cb84b2ee0d8519981a1023aaba04e4772bf7\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\prajw\.android\build-cache\eed6cb84b2ee0d8519981a1023aaba04e4772bf7\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\prajw\.android\build-cache\eed6cb84b2ee0d8519981a1023aaba04e4772bf7\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\prajw\.android\build-cache\eed6cb84b2ee0d8519981a1023aaba04e4772bf7\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\prajw\.android\build-cache\13a72621f3c2658c7558485ec1a012c66bd9d786\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\prajw\.android\build-cache\be657a6d7f78605a52570e29f90a01dfb6e3bca7\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\prajw\.android\build-cache\da72bcccc54641a490bbc6b9516dfc6fd5c60996\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\prajw\.android\build-cache\da72bcccc54641a490bbc6b9516dfc6fd5c60996\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\prajw\.android\build-cache\da72bcccc54641a490bbc6b9516dfc6fd5c60996\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\prajw\.android\build-cache\da72bcccc54641a490bbc6b9516dfc6fd5c60996\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\prajw\.android\build-cache\da72bcccc54641a490bbc6b9516dfc6fd5c60996\output\AndroidManifest.xml:6:79-143

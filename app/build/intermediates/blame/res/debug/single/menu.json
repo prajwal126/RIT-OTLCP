@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\prajw\\Desktop\\Cryptick\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\prajw\\.android\\build-cache\\e90b153f086fa3adafcffc7e389b9b5365fbfcc8\\output\\res\\menu\\crop_image_menu.xml"
+    }
+]

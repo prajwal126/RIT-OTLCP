@@ -108,4 +108,8 @@
     <string name="seek_to_hint">Seconds</string>
     <string name="title_activity_questions">Questions</string>
     <string name="log_out_user">Log Out User</string>
+    <string name="week_1">WEEK 1</string>
+    <string name="week_2">WEEK 2</string>
+    <string name="week_3">WEEK 3</string>
+    <string name="register_for_exam">REGISTER FOR EXAM</string>
 </resources>
